@@ -60,12 +60,38 @@ The system analyzes variables such as temperature, agricultural activity, livest
 
 ## Screenshots
 
-Add screenshots of:
+### Inicio de la página
+Vista principal de la plataforma GreenScope, mostrando la interfaz inicial orientada al análisis de datos ambientales relacionados con la deforestación.
 
-* Main dashboard
-* Environmental charts
-* Data visualization panels
-* Main interface
+![Inicio](./assets/screenshots/Inicio-GreenScope.png)
+
+---
+
+### Dashboard General
+Panel principal con visualización general de métricas, gráficos y análisis relacionados con datos ambientales y deforestación.
+
+![Dashboard General](./assets/screenshots/DashBoard-General.png)
+
+---
+
+### KPI 1 - Filtro por país
+Visualización de indicadores clave aplicando filtros específicos por país para analizar datos ambientales de manera más detallada.
+
+![KPI 1](./assets/screenshots/DashBoard-kpi1.png)
+
+---
+
+### KPI 2 - Filtro por país y año
+Análisis de indicadores aplicando filtros por país y año para comparar el comportamiento de la deforestación en distintos periodos.
+
+![KPI 2](./assets/screenshots/DashBoard-kpi2.png)
+
+---
+
+### Descripción del proyecto
+Sección informativa que presenta la misión y visión de GreenScope, enfocada en el análisis ambiental y la concientización sobre la deforestación mediante herramientas tecnológicas y visualización de datos.
+
+![Descripción](./assets/screenshots/Descripciones-GreenScope.png)
 
 ---
 
